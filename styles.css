@@ -13,17 +13,20 @@
     padding: 0;
     margin: 0;
 }
+html{
+    height: 100%;
+}
 
 body {
     font-family: 'League Spartan', sans-serif;
     background: url(./images/bg-pattern-top-mobile.svg) top left no-repeat, url(./images/bg-pattern-bottom-mobile.svg) bottom right no-repeat;
     background-color: var(--white);
+    height: 100%;
 }
 
 .main-container {
     text-align: center;
-    padding: 32px 16px;
-    margin-top: 10vh;
+    padding: 8vh 16px 32px 16px;
 }
 
 .main-container__heading {
@@ -135,6 +138,7 @@ body {
     }
 
     .main-container {
+        padding-top: 16vh;
         margin-left: 56px;
         margin-right: 56px;
     }
