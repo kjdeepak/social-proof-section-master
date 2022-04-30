@@ -21,8 +21,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [https://github.com/kjdeepak/qr-code-component](https://github.com/kjdeepak/qr-code-component)
-- Live Site URL: [https://qr-code-component-cmzw25glf-kjdeepak.vercel.app/](https://qr-code-component-cmzw25glf-kjdeepak.vercel.app/)
+- Solution URL: [https://github.com/kjdeepak/social-proof-section-master](https://github.com/kjdeepak/social-proof-section-master)
+- Live Site URL: [https://social-proof-section-master-kjdeepak.vercel.app/](https://social-proof-section-master-kjdeepak.vercel.app/)
 
 ## My process
 
